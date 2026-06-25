@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 import altair as alt
-import scipy.stats as stats
-import numpy as np
+# import scipy.stats as stats
+# import numpy as np
 
 
 df = pd.read_csv("listings.csv")
